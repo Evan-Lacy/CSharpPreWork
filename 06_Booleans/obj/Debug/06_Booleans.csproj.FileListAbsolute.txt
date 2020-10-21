@@ -1,0 +1,7 @@
+C:\Users\lacye\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_Booleans\bin\Debug\06_Booleans.exe.config
+C:\Users\lacye\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_Booleans\bin\Debug\06_Booleans.exe
+C:\Users\lacye\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_Booleans\bin\Debug\06_Booleans.pdb
+C:\Users\lacye\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_Booleans\obj\Debug\06_Booleans.csprojAssemblyReference.cache
+C:\Users\lacye\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_Booleans\obj\Debug\06_Booleans.csproj.CoreCompileInputs.cache
+C:\Users\lacye\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_Booleans\obj\Debug\06_Booleans.exe
+C:\Users\lacye\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_Booleans\obj\Debug\06_Booleans.pdb
